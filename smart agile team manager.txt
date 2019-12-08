@@ -1,0 +1,6 @@
+Based on the employee previous work histroy from the VSTS. jeera rating of the employee is decided by training the models
+
+Some of the points considered are 
+
+1) Number of stories completed in a sprint
+2) Quality maintained : Number of bugs detected , Number of reopened bugs
